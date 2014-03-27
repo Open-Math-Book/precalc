@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is part of the booklet             -->
+<!--                                              -->
+<!--      PreCalculus -- Introduction             -->
+<!--                                              -->
+<!-- Copyright (C) 2014  Joe Fields               -->
+<!-- See the file COPYING for copying conditions. -->
+   
+<chapter xml:id="chapter-linear" filebase="linear" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Functions</title>
+
+<section xml:id="section-lines">
+   <title>What makes a function "linear"?</title>
+   
+   <p> ARoC is always the same -- slope</p>
+   
+   <p> The slope-intercept form -- <m>y=mx+b</m></p>
+   
+   <p> Graphing lines</p>
+   
+   <p> Slopes of parallel and perpendicular lines</p>
+   
+   <p> Word problems involving lines -- direct and inverse questions</p>
+   
+</section>
