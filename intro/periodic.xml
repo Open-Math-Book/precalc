@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is part of the booklet             -->
+<!--                                              -->
+<!--      PreCalculus -- Introduction             -->
+<!--                                              -->
+<!-- Copyright (C) 2014  Joe Fields               -->
+<!-- See the file COPYING for copying conditions. -->
+   
+<chapter xml:id="chapter-periodic" filebase="periodic" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Periodic functions</title>
+
+<section xml:id="section-periodic_motivating_example">
+   <title>Modeling temperatore throughout the year</title>
+   
+</section>
+
+<section xml:id="section-def_per">
+   <title>Defintion and basics</title>
+   <p> period and wavelength
+   <p> domains and ranges
+   <p> sinusoids
+   <p> other waveforms
+</section>
+
+
+</chapter>
