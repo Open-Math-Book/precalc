@@ -9,6 +9,21 @@
    
 <chapter xml:id="chapter-functions" filebase="functions" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Function concepts</title>
- 
-    
+
+<section xml:id="section-what">
+   <title>What is a function?</title>
+   
+</section>
+
+<section xml:id="section-range_and_domain">
+   <title>Range and Domain</title>
+   
+</section>
+
+<section xml:id="section-one_to_one">
+   <title>One-to-one functions and Invertibility</title>
+   
+</section>
+
+
 </chapter>
