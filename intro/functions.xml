@@ -13,10 +13,25 @@
 <section xml:id="section-what">
    <title>What is a function?</title>
    
+   <p>the "well-defined rule" definition</p>
+   
+   <p>the "relation that has some property" definition</p>
+   
+   <p>the vertical line test -- be careful in drawing graphs so you don't accidentally fail VLT</p>
+   
+   <p>functions defined via tables of values -- why it's hard to create a non-function this way.</p>
+   
 </section>
 
 <section xml:id="section-range_and_domain">
    <title>Range and Domain</title>
+   
+   <p>define: range, domain, image, preimage</p>
+   
+   <p>the default domain of a function</p>
+   
+   <p>explicitly defined domains - restriction</p>
+   
    
 </section>
 
