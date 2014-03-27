@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
+<!-- This file is part of the booklet             -->
+<!--                                              -->
+<!--      PreCalculus -- Introduction             -->
+<!--                                              -->
+<!-- Copyright (C) 2014  Joe Fields               -->
+<!-- See the file COPYING for copying conditions. -->
 <!-- Overall element for a Mathbook XML document; mandatory, always-->
 <mathbook>
 
-    <!--
-    "docinfo" is like metadata, it mostly migrates
-    various places, or gets used multiple times
-    -->
+
     <docinfo>
-        <!-- There can be several authors here -->
-        <author>
+         <author>
             <personname>Joe Fields</personname>
             <department>Department of Mathematics</department>
-            <!-- Use "break" tag anywhere for forced line break -->
             <institution>Southern Connecticut State University<br />New Haven, Connecticut, USA</institution>
             <email>fieldsj1@southernct.edu</email>
         </author>
@@ -23,18 +23,10 @@
         Whitespace and line breaks are irrelevant here.
         -->
         <macros>
-        \newcommand{\definiteintegral}[4]{\int_{#1}^{#2}\,#3\,d#4}
-        \newcommand{\indefiniteintegral}[2]{\int#1\,d#2}
         </macros>
     </docinfo>
 
-    <!--
-    The article element is top-level for anything short of a book.
-    There is a book element, which is not demonstrated here.
-    The "filebase" attribute is used for the filename of the
-    HTML output, s part of a chunking scheme that is not complete.
-    -->
-    <book filebase="derivatives">
+<book filebase="intro">
         <title>PreCalculus -- Introduction</title>
         
         <xi:include href="./functions.xml" />
@@ -46,6 +38,6 @@
         <xi:include href="./exponential.xml" />
         <xi:include href="./periodic.xml" />
  
-    </book>
+</book>
 
 </mathbook>
