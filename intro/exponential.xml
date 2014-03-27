@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is part of the booklet             -->
+<!--                                              -->
+<!--      PreCalculus -- Introduction             -->
+<!--                                              -->
+<!-- Copyright (C) 2014  Joe Fields               -->
+<!-- See the file COPYING for copying conditions. -->
+   
+<chapter xml:id="chapter-exponential" filebase="exponential" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Exponential functions</title>
+
+<section xml:id="section-def_exp">
+   <title>Defintion and basics</title>
+   <p> analogy with linear functions
+   <p> domains - everything
+   <p> growth and decay
+</section>
+
+</chapter>
