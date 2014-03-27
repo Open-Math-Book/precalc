@@ -10,6 +10,16 @@
 <chapter xml:id="chapter-linear" filebase="linear" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Linear Functions</title>
 
+<section xml:id="section-linear_examples">
+   <title>Some motivating examples</title>
+   
+   <p> Fixed and per-unit costs</p>
+   
+   <p> Predicting the future (based on past behavior)</p>
+   
+
+</section>
+
 <section xml:id="section-lines">
    <title>What makes a function "linear"?</title>
    
