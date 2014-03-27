@@ -37,6 +37,7 @@
         <xi:include href="./rational.xml" />
         <xi:include href="./exponential.xml" />
         <xi:include href="./periodic.xml" />
+        <xi:include href="./transforms.xml" />
  
 </book>
 
