@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is part of the booklet             -->
+<!--                                              -->
+<!--      PreCalculus -- Introduction             -->
+<!--                                              -->
+<!-- Copyright (C) 2014  Joe Fields               -->
+<!-- See the file COPYING for copying conditions. -->
+   
+<chapter xml:id="chapter-combining" filebase="combining" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Combining Functions</title>
+
+<section xml:id="section-basic">
+   <title>Basic examples of functions</title>
+   
+   <p> constant functions
+   
+   <p> the identity function
+   
+</section>
+
+<section xml:id="section-sums">
+   <title>Sums of functions</title>
+   
+</section>
+
+<section xml:id="section-products">
+   <title>Products</title>
+   
+</section>
+
+<section xml:id="section-quotients">
+   <title>Quotients</title>
+   
+</section>
+
+<section xml:id="section-compositions">
+   <title>Compositions</title>
+   
+</section>
+
+
+
+</chapter>
