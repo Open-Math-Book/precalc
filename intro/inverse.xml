@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is part of the booklet             -->
+<!--                                              -->
+<!--      PreCalculus -- Introduction             -->
+<!--                                              -->
+<!-- Copyright (C) 2014  Joe Fields               -->
+<!-- See the file COPYING for copying conditions. -->
+   
+<chapter xml:id="chapter-inverses" filebase="inverses" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Inverses of Functions</title>
+
+<section xml:id="section-inv">
+   <title>The Inverse concept</title>
+   
+   <p> the composition of f and g gives the identity function
+   
+   <p> only one-to-one functions may be inverted
+   
+   <p> restricting the domain of functions to make them invertible
+   
+   <p> domain and range of an inverse
+   
+</section>
+
+<section xml:id="section-socks_and_shoes">
+   <title>The Socks and Shoes rule</title>
+   
+</section>
+
+<section xml:id="section-finding_inverses">
+   <title>Finding inverse functions algebraically</title>
+   
+</section>
+
+<section xml:id="section-inverses_applied">
+   <title>Applications of the inverse comcept</title>
+   
+</section>
+
+<section xml:id="section-compositions">
+   <title>Compositions</title>
+   
+</section>
+
+
+
+</chapter>
