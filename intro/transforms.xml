@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is part of the booklet             -->
+<!--                                              -->
+<!--      PreCalculus -- Introduction             -->
+<!--                                              -->
+<!-- Copyright (C) 2014  Joe Fields               -->
+<!-- See the file COPYING for copying conditions. -->
+   
+<chapter xml:id="chapter-transforms" filebase="transforms" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Transformations of functions</title>
+
+<section xml:id="section-catalog">
+   <title>A catalog of basic functions</title>
+   
+</section>
+
+<section xml:id="section-vertical_shifts">
+   <title>Shifting functions up or down</title>
+
+</section>
+
+<section xml:id="section-horizontal_shifts">
+   <title>Shifting functions side to side</title>
+
+</section>
+
+<section xml:id="section-scaling">
+   <title>Horizontal and vertical scaling</title>
+
+</section>
+
+<section xml:id="section-inside_outside">
+   <title>Composing functions with linear functions</title>
+ <p>Outside changes: <m>L(f(x))</m></p>
+ <p>Inside changes: <m>f(L(x))</m></p>
+ <p>Understanding the perverse "backwardness" of inside changes</p>
+</section>
+
+
+</chapter>
